@@ -25,7 +25,7 @@
 
 1.  استنساخ المستودع:
     ```bash
-    https://github.com/Daishankan/SPIN.git
+    git clone https://github.com/Daishankan/SPIN.git
     ```
 2.  تثبيت المكتبات المطلوبة:
     ```bash
@@ -65,7 +65,7 @@ python SPIN.py
 
 1.  Clone the repository:
     ```bash
-    https://github.com/Daishankan/SPIN.git
+    git clone https://github.com/Daishankan/SPIN.git
     ```
 2.  Install required libraries:
     ```bash
