@@ -1,6 +1,6 @@
 # Social Profile Intelligence Network (SPIN)
 
-
+## العربية
 
 **شبكة استخبارات الملفات الاجتماعية (SPIN)** هي أداة مفتوحة المصدر لجمع المعلومات من منصات التواصل الاجتماعي (فيسبوك حاليًا)، مخصصة للأغراض التعليمية والبحثية والأخلاقية فقط.
 
@@ -25,8 +25,7 @@
 
 1.  استنساخ المستودع:
     ```bash
-    git clone []
-    cd SPIN-Tool
+    https://github.com/Daishankan/SPIN.git
     ```
 2.  تثبيت المكتبات المطلوبة:
     ```bash
@@ -40,6 +39,8 @@ python SPIN.py
 ```
 
 ---
+
+## English
 
 **Social Profile Intelligence Network (SPIN)** is an open-source information gathering tool for social media platforms (currently Facebook), intended for educational, research, and ethical purposes only.
 
@@ -64,8 +65,7 @@ python SPIN.py
 
 1.  Clone the repository:
     ```bash
-    git clone [Your-GitHub-Repo-URL]
-    cd SPIN-Tool
+    https://github.com/Daishankan/SPIN.git
     ```
 2.  Install required libraries:
     ```bash
